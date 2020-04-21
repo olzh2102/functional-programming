@@ -1,0 +1,22 @@
+{
+  "name": "functional-programming",
+  "version": "1.0.0",
+  "description": "fp",
+  "main": "currying.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/olzh2102/functional-programming.git"
+  },
+  "author": "me",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/olzh2102/functional-programming/issues"
+  },
+  "homepage": "https://github.com/olzh2102/functional-programming#readme",
+  "dependencies": {
+    "node-fetch": "^2.6.0"
+  }
+}

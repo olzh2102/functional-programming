@@ -2,7 +2,7 @@ const numbers = [1, 2, 3]
 
 const summingReducer = (acc, current) =>
 	current + acc
-const result = numbers.reduce(summingReducer)
+const result = numbers.reduce(summingReducer, 0)
 console.log(result)
 
 const reduceArr = (
